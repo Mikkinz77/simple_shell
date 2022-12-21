@@ -64,6 +64,7 @@ result += (s[i] - '0');
 else if (flag == 1)
 flag = 2;
 }
+
 if (sign == -1)
 output = -result;
 else
